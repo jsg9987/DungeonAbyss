@@ -90,7 +90,14 @@ SourceArt/**/*.tga
 
 #Asset Files#
 
-Content/*
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Characters
+Content/Collections
+Content/LevelPrototyping
+Content/Developers
+Content/ThirdPerson
+
 
 # Compiled source files for the engine to use
 Intermediate/*
