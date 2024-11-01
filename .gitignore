@@ -89,8 +89,7 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 #Asset Files#
-
-Content/*
+#Content/*
 
 # Compiled source files for the engine to use
 Intermediate/*
